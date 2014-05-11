@@ -13,8 +13,8 @@ using System.Collections;
 namespace MemoryGame
 {
     public partial class Form1 : Form
-    {
-        
+    {      
+
         Color[] colorsList = new Color[]{
             Color.Red,Color.Blue, Color.Aqua, Color.Green, Color.Brown, Color.Beige,
             Color.DarkBlue, Color.Orange, Color.Olive, Color.Yellow,
