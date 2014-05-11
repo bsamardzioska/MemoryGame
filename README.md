@@ -22,7 +22,7 @@ Memory Game - Семинарска работа по Визуелно прогр
 3. Програмско решение:
 ==========
 <b>Решението ги содржи следниве функции кои се дел од Form1:</b><br/>
-<br/>// Funkcija koja se koristi za odbiranje na pozadinska boja za <br/>
+// Funkcija koja se koristi za odbiranje na pozadinska boja za <br/>
 // kvadratite. Funkcijata koristi generator na slucajni broevi <br/>
 // za da opredeli indeks za bojata. Indeksot sluzi za pristap do <br/>
 // poleto colorsList i zemanje na soodvetnata boja od tamu. <br/>
@@ -54,4 +54,4 @@ Memory Game - Семинарска работа по Визуелно прогр
 
 <br/>
 <img src="http://s9.postimg.org/8afavp6bj/image.png" />
-<br/><b><i>Приказ при избор на 6x6 квадрати од менито Options</i></b>
+<br/><b><i>&nbsp;&nbsp;&nbsp;Приказ при избор на 6x6 квадрати од менито Options</i></b>
