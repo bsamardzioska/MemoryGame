@@ -22,5 +22,25 @@ Memory Game - Семинарска работа по Визуелно прогр
 3. Програмско решение:
 ==========
 <b>Решението ги содржи следниве функции кои се дел од Form1:</b>
+<br/>
+// Funkcija koja se koristi za odbiranje na pozadinska boja za <br/>
+// kvadratite. Funkcijata koristi generator na slucajni broevi <br/>
+// za da opredeli indeks za bojata. Indeksot sluzi za pristap do <br/>
+// poleto colorsList i zemanje na soodvetnata boja od tamu. <br/>
+// Poleto colorsUsed gi sodrzi site boi za inicijalizacija. <br/>
+// Nizata colorUsed sluzi za oznacuvanje koja od boite vo colorsList <br/>
+// e zafatena. Sekoja od boite vo colorsList moze da se javi najmnogu <br/>
+// dvapati na nacrtanite kvadrati.<br/>
+<br/>
+<b>private Color colorFunc()</b>
 
-
+//Funkcija koja sluzi za iscrtuvanje na kvadratite. 
+//Sekoj kvadrat e objekt od klasata Button. Prvo se 
+//kreira matrica od kopcinja so odbranite dimenzii (x i y). 
+//Potoa poedinecno se kreira sekoe kopce, se postavuvaat 
+//negovite dimenzii, pocetna pozicija, ime, se dodava 
+//nastan za klikanje na istoto i se postavuvaat vrednostite za progress-bar. 
+//Istovremeno, se odbira bojata koja ke bide povrzana so soodvetniot 
+//kvadrat (kopce), potoa istiot se dodava na panel.
+<br/>
+<b>private void CreateTable()</b>
