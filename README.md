@@ -21,8 +21,8 @@ Memory Game - Семинарска работа по Визуелно прогр
 
 3. Програмско решение:
 ==========
-<br/><b>Решението ги содржи следниве функции кои се дел од Form1:</b>
-// Funkcija koja se koristi za odbiranje na pozadinska boja za <br/>
+<b>Решението ги содржи следниве функции кои се дел од Form1:</b>
+<br/><br/>// Funkcija koja se koristi za odbiranje na pozadinska boja za <br/>
 // kvadratite. Funkcijata koristi generator na slucajni broevi <br/>
 // za da opredeli indeks za bojata. Indeksot sluzi za pristap do <br/>
 // poleto colorsList i zemanje na soodvetnata boja od tamu. <br/>
@@ -32,12 +32,12 @@ Memory Game - Семинарска работа по Визуелно прогр
 // dvapati na nacrtanite kvadrati.<br/>
 <b>private Color colorFunc()</b>
 
-//Funkcija koja sluzi za iscrtuvanje na kvadratite. 
-//Sekoj kvadrat e objekt od klasata Button. Prvo se 
-//kreira matrica od kopcinja so odbranite dimenzii (x i y). 
-//Potoa poedinecno se kreira sekoe kopce, se postavuvaat 
-//negovite dimenzii, pocetna pozicija, ime, se dodava 
-//nastan za klikanje na istoto i se postavuvaat vrednostite za progress-bar. 
-//Istovremeno, se odbira bojata koja ke bide povrzana so soodvetniot 
-//kvadrat (kopce), potoa istiot se dodava na panel.
+//Funkcija koja sluzi za iscrtuvanje na kvadratite. <br/>
+//Sekoj kvadrat e objekt od klasata Button. Prvo se <br/>
+//kreira matrica od kopcinja so odbranite dimenzii (x i y). <br/>
+//Potoa poedinecno se kreira sekoe kopce, se postavuvaat <br/>
+//negovite dimenzii, pocetna pozicija, ime, se dodava <br/>
+//nastan za klikanje na istoto i se postavuvaat vrednostite za progress-bar. <br/>
+//Istovremeno, se odbira bojata koja ke bide povrzana so soodvetniot <br/>
+//kvadrat (kopce), potoa istiot se dodava na panel.<br/>
 <b>private void CreateTable()</b>
