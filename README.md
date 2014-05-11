@@ -22,7 +22,6 @@ Memory Game - Семинарска работа по Визуелно прогр
 3. Програмско решение:
 ==========
 <b>Решението ги содржи следниве функции кои се дел од Form1:</b>
-<br/>
 // Funkcija koja se koristi za odbiranje na pozadinska boja za <br/>
 // kvadratite. Funkcijata koristi generator na slucajni broevi <br/>
 // za da opredeli indeks za bojata. Indeksot sluzi za pristap do <br/>
@@ -32,8 +31,6 @@ Memory Game - Семинарска работа по Визуелно прогр
 // e zafatena. Sekoja od boite vo colorsList moze da se javi najmnogu <br/>
 // dvapati na nacrtanite kvadrati.<br/>
 <b>private Color colorFunc()</b>
-
-<br/>
 
 //Funkcija koja sluzi za iscrtuvanje na kvadratite. 
 //Sekoj kvadrat e objekt od klasata Button. Prvo se 
