@@ -21,7 +21,7 @@ Memory Game - Семинарска работа по Визуелно прогр
 
 3. Програмско решение:
 ==========
-<b>Решението ги содржи следниве функции кои се дел од Form1:</b>
+<b>Решението ги содржи следниве функции кои се дел од Form1:</b><br/>
 <br/>// Funkcija koja se koristi za odbiranje na pozadinska boja za <br/>
 // kvadratite. Funkcijata koristi generator na slucajni broevi <br/>
 // za da opredeli indeks za bojata. Indeksot sluzi za pristap do <br/>
@@ -52,5 +52,6 @@ Memory Game - Семинарска работа по Визуелно прогр
 //preostanatoto vreme za igranje, na soodvetna pozicija.<br/>
 <b>private Label GetTimeLabel()</b>
 
+<br/>
 <img src="http://s9.postimg.org/8afavp6bj/image.png" />
 <br/><b><i>Приказ при избор на 6x6 квадрати од менито Options</i></b>
