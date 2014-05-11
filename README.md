@@ -21,7 +21,7 @@ Memory Game - Семинарска работа по Визуелно прогр
 
 3. Програмско решение:
 ==========
-<b>Решението ги содржи следниве функции кои се дел од Form1:</b>
+<br/><b>Решението ги содржи следниве функции кои се дел од Form1:</b>
 // Funkcija koja se koristi za odbiranje na pozadinska boja za <br/>
 // kvadratite. Funkcijata koristi generator na slucajni broevi <br/>
 // za da opredeli indeks za bojata. Indeksot sluzi za pristap do <br/>
