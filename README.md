@@ -55,3 +55,9 @@ Memory Game - Семинарска работа по Визуелно прогр
 <br/>
 <img src="http://s9.postimg.org/8afavp6bj/image.png" />
 <br/><b><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Приказ при избор на 6x6 квадрати од менито Options</i></b>
+
+Изработила:
+==========
+Бојана Самарџиоска
+Бр.Индекс: 117021
+Насока: ИНФО
