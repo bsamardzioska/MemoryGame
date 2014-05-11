@@ -31,8 +31,9 @@ Memory Game - Семинарска работа по Визуелно прогр
 // Nizata colorUsed sluzi za oznacuvanje koja od boite vo colorsList <br/>
 // e zafatena. Sekoja od boite vo colorsList moze da se javi najmnogu <br/>
 // dvapati na nacrtanite kvadrati.<br/>
-<br/>
 <b>private Color colorFunc()</b>
+
+<br/>
 
 //Funkcija koja sluzi za iscrtuvanje na kvadratite. 
 //Sekoj kvadrat e objekt od klasata Button. Prvo se 
@@ -42,5 +43,4 @@ Memory Game - Семинарска работа по Визуелно прогр
 //nastan za klikanje na istoto i se postavuvaat vrednostite za progress-bar. 
 //Istovremeno, se odbira bojata koja ke bide povrzana so soodvetniot 
 //kvadrat (kopce), potoa istiot se dodava na panel.
-<br/>
 <b>private void CreateTable()</b>
